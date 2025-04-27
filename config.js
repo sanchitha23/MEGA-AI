@@ -75,7 +75,7 @@ global.APIKeys = {
 global.premium = 'true'
 global.packname = 'MEGA-AI'
 global.author = 'GlobalTechInfo'
-global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
+global.menuvid = 'https://imgur.com/a/J6FmVzt'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
 global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 global.fgsc = 'https://github.com/GlobalTechInfo/MEGA-AI'
@@ -85,7 +85,7 @@ global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
 global.wait = '⏳'
-global.rwait = '⏳'
+global.rwait = '⬆️'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌'
